@@ -1,8 +1,3 @@
-# Desafio Técnico
-
-## Descrição
-Desafio para avaliação técnica
-
 ## Considerações adotadas
 - Movs. = Tons., ou seja, os dois são tratados como uma mesma unidade de medida para o volume
 - Imp = DESC e Exp = EMB
